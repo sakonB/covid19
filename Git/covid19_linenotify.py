@@ -1,0 +1,1 @@
+# intstall git bash ก่อน click จาก icon ด้านซ้าย https://git-scm.com/
