@@ -1,3 +1,8 @@
+# python -m pip install matplotlib
+# pip install matplotlib
+# python3 -m venv .venv
+# python -m pip install numpy
+
 import matplotlib.pyplot as plt
 import numpy as np
 
