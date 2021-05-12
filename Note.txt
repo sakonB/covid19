@@ -1,0 +1,2 @@
+Python vs Vscode
+https://code.visualstudio.com/docs/python/python-tutorial
