@@ -1,2 +1,9 @@
 Python vs Vscode
 https://code.visualstudio.com/docs/python/python-tutorial
+
+
+Error
+ImportError: Missing required dependencies ['numpy']
+solve by
+    select interpreter:
+    F1 -> C:/Users/ToNB/AppData/Local/Microsoft/WindowsApps/python3.9.exe
